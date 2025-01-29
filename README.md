@@ -2,12 +2,15 @@
 
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
+**Download: https://www.mediafire.com/file/rg1084c7xc5klu4/PlunoV3.zip/file** <br/>
+*Download on Mediafire because this sh1 is too big for GitHub*
+
 # Why?
 
 Offline key system and no obf is actually crazy...
 
 # How To Use
-1. Download [PlunoV3.zip](https://github.com/WalmartSolutions/PlunoV3/raw/refs/heads/main/PlunoV3.zip) & [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
+1. Download [PlunoV3.zip](https://www.mediafire.com/file/rg1084c7xc5klu4/PlunoV3.zip/file) & [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
 2. Unzip PlunoV3.
 3. Start Roblox Bloxstrap.
 4. Run Pluno.exe.
