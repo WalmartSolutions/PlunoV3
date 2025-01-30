@@ -2,7 +2,7 @@
 
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
-**Download: https://www.mediafire.com/file/m6adqszvuds2690/PlunoV3.zip/file** <br/>
+**Download: https://www.mediafire.com/file/m6adqszvuds2690/PlunoV3.zip/file** (Password: WS)<br/> 
 *Download on Mediafire because this sh1 is too big for GitHub*
 
 # Why?
