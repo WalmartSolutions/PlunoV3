@@ -2,7 +2,7 @@
 
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
-**Download: https://www.mediafire.com/file/m6adqszvuds2690/PlunoV3.zip/file** (Password: WS)<br/> 
+**Download: https://www.mediafire.com/file/iylqj15mkw0vcvf/Pluno-Shit.zip/file**<br/> 
 *Download on Mediafire because this sh1 is too big for GitHub*
 
 # Why?
@@ -10,7 +10,7 @@
 Offline key system and no obf is actually crazy...
 
 # How To Use
-1. Download [PlunoV3.zip](https://www.mediafire.com/file/m6adqszvuds2690/PlunoV3.zip/file) & [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
+1. Download [PlunoV3.zip](https://www.mediafire.com/file/iylqj15mkw0vcvf/Pluno-Shit.zip/file) & [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
 2. Unzip PlunoV3.
 3. Start Roblox Bloxstrap.
 4. Run Pluno.exe.
